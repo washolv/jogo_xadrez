@@ -14,8 +14,8 @@ import chess.Color;
  */
 public class Rook extends chess.ChessPiece{
     
-    public Rook(Color color, Board board) {
-        super(color, board);
+    public Rook(Board board, Color color) {
+        super(board, color);
     }
     
     @Override
