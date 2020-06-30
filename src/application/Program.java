@@ -1,8 +1,5 @@
 
 package application;
-
-import boardgame.Position;
-import boardgame.Board;
 import chess.ChessMatch;
 
 
